@@ -1,1 +1,0 @@
-# TheLookAndSaySequence-is-the-sequence
