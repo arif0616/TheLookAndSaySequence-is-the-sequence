@@ -1,0 +1,6 @@
+C:\Users\CEM\source\repos\1Alirstirma\1Alirstirma\bin\Debug\1Alirstirma.exe.config
+C:\Users\CEM\source\repos\1Alirstirma\1Alirstirma\bin\Debug\1Alirstirma.exe
+C:\Users\CEM\source\repos\1Alirstirma\1Alirstirma\bin\Debug\1Alirstirma.pdb
+C:\Users\CEM\source\repos\1Alirstirma\1Alirstirma\obj\Debug\1Alirstirma.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\1Alirstirma\1Alirstirma\obj\Debug\1Alirstirma.exe
+C:\Users\CEM\source\repos\1Alirstirma\1Alirstirma\obj\Debug\1Alirstirma.pdb
